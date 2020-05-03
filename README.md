@@ -1,5 +1,5 @@
 # DuqMastersThesis
-Duquesne University Master's Thesis
+Duquesne University Thesis for Master's in Computational Mathematics
 
 <a href="https://lisaover.github.io/DuqMastersThesis/" target="_blank">Access the project web page</a>
 
