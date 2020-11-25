@@ -1,9 +1,6 @@
 # DuqMastersThesis
 Duquesne University Thesis for Master's in Computational Mathematics
 
-<a href="https://lisaover.github.io/DuqMastersThesis/" target="_blank">Access the project web page</a>
-
-
 ## Losing Schools to the Economic Chasm
 
 The No Child Left Behind (NCLB) era of educational reform, which is now at the close of its 14th year, focuses on improving student learning by using research-based teaching techniques, making evidence-based decisions, hiring quality teachers, holding schools and school districts accountable for student performance, and allowing families to leave a school that is designated as “failing” to attend one with a better report card. The goal of NCLB is to make sure each and every child reaches certain learning outcomes before he or she graduates high school. However, school performance measures show that fourteen years of NCLB funding and efforts has not reached every school and, consequently, not every child. Many schools are still designated as “failing” as a result of numerous low performing students.
